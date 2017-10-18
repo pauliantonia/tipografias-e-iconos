@@ -1,0 +1,70 @@
+.h5 {
+  font-family: 'Francois One', sans-serif
+}
+
+.p{
+  font-family: 'Walter Turncoat', cursive;  /*no me funciona aplicar dos tipografias distintas*/
+}
+
+/*.contenedora{
+  font-family: 'Walter Turncoat', cursive;
+}   esto si me funciona pero me deja solo una tipografía para todo*/
+
+.home{
+  width: 200px;
+  height: 200px;
+  background-color: #F2F2F2;
+  color: grey;
+  display: inline-block;
+  position: absolute;
+  text-align: center;
+  padding: 10px;
+}
+
+.paw{
+  width: 200px;
+  height: 200px;
+  background-color: #F2F2F2;
+  color: grey;
+  display: inline-block;
+  position: absolute;
+  left: 230px;
+  text-align: center;
+  padding: 10px;
+}
+
+.shop{
+  width: 200px;
+  height: 200px;
+  background-color: #F2F2F2;
+  color: grey;
+  display: inline-block;
+  position: absolute;
+  left: 452px;
+  text-align: center;
+  padding: 10px;
+}
+
+.mail{
+  width: 200px;
+  height: 200px;
+  background-color: #F2F2F2;
+  color: grey;
+  display: inline-block;
+  position: absolute;
+  left: 674px;
+  text-align: center;
+  padding: 10px;
+}
+
+.user{
+  width: 200px;
+  height: 200px;
+  background-color: #F2F2F2;
+  color: grey;
+  display: inline-block;
+  position: absolute;
+  left: 896px;
+  text-align: center;
+  padding: 10px;
+}
